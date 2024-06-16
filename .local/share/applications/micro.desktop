@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Micro
+Exec=env MICRO_TRUECOLOR=1 kitty -e micro %f
+Type=Application
+Terminal=false
+MimeType=text/plain;
+Icon=micro
